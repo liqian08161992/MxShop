@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="59.110.163.113" id="63b8bf6e-9188-4bef-b885-09dbaddd55e8" port="22" customName="mxshop" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="59.110.163.113" id="2d306460-ec2e-4680-9ab2-6735eb5c82a8" port="22" customName="mxshop" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</project>
